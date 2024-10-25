@@ -1,0 +1,429 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mert\\source\\repos\\CoreDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5078EE96-3688-493F-9D12-1061B1F2188B}|CoreDemo\\CoreDemo.csproj|c:\\users\\mert\\source\\repos\\coredemo\\coredemo\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5078EE96-3688-493F-9D12-1061B1F2188B}|CoreDemo\\CoreDemo.csproj|solutionrelative:coredemo\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83AB486D-66E3-44AD-92FA-EFE7C7131D50}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\mert\\source\\repos\\coredemo\\businesslayer\\concrete\\aboutmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83AB486D-66E3-44AD-92FA-EFE7C7131D50}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\concrete\\aboutmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26F96DC5-E339-4D2B-AD04-34FB73732F0D}|EntityLayer\\EntityLayer.csproj|c:\\users\\mert\\source\\repos\\coredemo\\entitylayer\\concrete\\blograyting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26F96DC5-E339-4D2B-AD04-34FB73732F0D}|EntityLayer\\EntityLayer.csproj|solutionrelative:entitylayer\\concrete\\blograyting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26F96DC5-E339-4D2B-AD04-34FB73732F0D}|EntityLayer\\EntityLayer.csproj|c:\\users\\mert\\source\\repos\\coredemo\\entitylayer\\concrete\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26F96DC5-E339-4D2B-AD04-34FB73732F0D}|EntityLayer\\EntityLayer.csproj|solutionrelative:entitylayer\\concrete\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5078EE96-3688-493F-9D12-1061B1F2188B}|CoreDemo\\CoreDemo.csproj|c:\\users\\mert\\source\\repos\\coredemo\\coredemo\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5078EE96-3688-493F-9D12-1061B1F2188B}|CoreDemo\\CoreDemo.csproj|solutionrelative:coredemo\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07B787EB-B012-4DD0-9431-F76D617F157A}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\mert\\source\\repos\\coredemo\\dataaccesslayer\\concrete\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07B787EB-B012-4DD0-9431-F76D617F157A}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\concrete\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5078EE96-3688-493F-9D12-1061B1F2188B}|CoreDemo\\CoreDemo.csproj|c:\\users\\mert\\source\\repos\\coredemo\\coredemo\\views\\blog\\blogadd.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5078EE96-3688-493F-9D12-1061B1F2188B}|CoreDemo\\CoreDemo.csproj|solutionrelative:coredemo\\views\\blog\\blogadd.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5078EE96-3688-493F-9D12-1061B1F2188B}|CoreDemo\\CoreDemo.csproj|c:\\users\\mert\\source\\repos\\coredemo\\coredemo\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5078EE96-3688-493F-9D12-1061B1F2188B}|CoreDemo\\CoreDemo.csproj|solutionrelative:coredemo\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5078EE96-3688-493F-9D12-1061B1F2188B}|CoreDemo\\CoreDemo.csproj|c:\\users\\mert\\source\\repos\\coredemo\\coredemo\\views\\blog\\editblog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5078EE96-3688-493F-9D12-1061B1F2188B}|CoreDemo\\CoreDemo.csproj|solutionrelative:coredemo\\views\\blog\\editblog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5078EE96-3688-493F-9D12-1061B1F2188B}|CoreDemo\\CoreDemo.csproj|c:\\users\\mert\\source\\repos\\coredemo\\coredemo\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5078EE96-3688-493F-9D12-1061B1F2188B}|CoreDemo\\CoreDemo.csproj|solutionrelative:coredemo\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5078EE96-3688-493F-9D12-1061B1F2188B}|CoreDemo\\CoreDemo.csproj|c:\\users\\mert\\source\\repos\\coredemo\\coredemo\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5078EE96-3688-493F-9D12-1061B1F2188B}|CoreDemo\\CoreDemo.csproj|solutionrelative:coredemo\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5078EE96-3688-493F-9D12-1061B1F2188B}|CoreDemo\\CoreDemo.csproj|c:\\users\\mert\\source\\repos\\coredemo\\coredemo\\views\\shared\\partial3.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5078EE96-3688-493F-9D12-1061B1F2188B}|CoreDemo\\CoreDemo.csproj|solutionrelative:coredemo\\views\\shared\\partial3.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5078EE96-3688-493F-9D12-1061B1F2188B}|CoreDemo\\CoreDemo.csproj|c:\\users\\mert\\source\\repos\\coredemo\\coredemo\\views\\shared\\adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5078EE96-3688-493F-9D12-1061B1F2188B}|CoreDemo\\CoreDemo.csproj|solutionrelative:coredemo\\views\\shared\\adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5078EE96-3688-493F-9D12-1061B1F2188B}|CoreDemo\\CoreDemo.csproj|c:\\users\\mert\\source\\repos\\coredemo\\coredemo\\areas\\admin\\views\\writer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5078EE96-3688-493F-9D12-1061B1F2188B}|CoreDemo\\CoreDemo.csproj|solutionrelative:coredemo\\areas\\admin\\views\\writer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5078EE96-3688-493F-9D12-1061B1F2188B}|CoreDemo\\CoreDemo.csproj|c:\\users\\mert\\source\\repos\\coredemo\\coredemo\\areas\\admin\\views\\widget\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5078EE96-3688-493F-9D12-1061B1F2188B}|CoreDemo\\CoreDemo.csproj|solutionrelative:coredemo\\areas\\admin\\views\\widget\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5078EE96-3688-493F-9D12-1061B1F2188B}|CoreDemo\\CoreDemo.csproj|c:\\users\\mert\\source\\repos\\coredemo\\coredemo\\areas\\admin\\views\\shared\\components\\statistic4\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5078EE96-3688-493F-9D12-1061B1F2188B}|CoreDemo\\CoreDemo.csproj|solutionrelative:coredemo\\areas\\admin\\views\\shared\\components\\statistic4\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5078EE96-3688-493F-9D12-1061B1F2188B}|CoreDemo\\CoreDemo.csproj|c:\\users\\mert\\source\\repos\\coredemo\\coredemo\\areas\\admin\\views\\shared\\components\\statistic2\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5078EE96-3688-493F-9D12-1061B1F2188B}|CoreDemo\\CoreDemo.csproj|solutionrelative:coredemo\\areas\\admin\\views\\shared\\components\\statistic2\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5078EE96-3688-493F-9D12-1061B1F2188B}|CoreDemo\\CoreDemo.csproj|c:\\users\\mert\\source\\repos\\coredemo\\coredemo\\areas\\admin\\views\\shared\\components\\statistic1\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5078EE96-3688-493F-9D12-1061B1F2188B}|CoreDemo\\CoreDemo.csproj|solutionrelative:coredemo\\areas\\admin\\views\\shared\\components\\statistic1\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5078EE96-3688-493F-9D12-1061B1F2188B}|CoreDemo\\CoreDemo.csproj|c:\\users\\mert\\source\\repos\\coredemo\\coredemo\\areas\\admin\\views\\chart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5078EE96-3688-493F-9D12-1061B1F2188B}|CoreDemo\\CoreDemo.csproj|solutionrelative:coredemo\\areas\\admin\\views\\chart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5078EE96-3688-493F-9D12-1061B1F2188B}|CoreDemo\\CoreDemo.csproj|c:\\users\\mert\\source\\repos\\coredemo\\coredemo\\areas\\admin\\views\\adminrole\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5078EE96-3688-493F-9D12-1061B1F2188B}|CoreDemo\\CoreDemo.csproj|solutionrelative:coredemo\\areas\\admin\\views\\adminrole\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5078EE96-3688-493F-9D12-1061B1F2188B}|CoreDemo\\CoreDemo.csproj|c:\\users\\mert\\source\\repos\\coredemo\\coredemo\\areas\\admin\\views\\adminrole\\addrole.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5078EE96-3688-493F-9D12-1061B1F2188B}|CoreDemo\\CoreDemo.csproj|solutionrelative:coredemo\\areas\\admin\\views\\adminrole\\addrole.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5078EE96-3688-493F-9D12-1061B1F2188B}|CoreDemo\\CoreDemo.csproj|c:\\users\\mert\\source\\repos\\coredemo\\coredemo\\areas\\admin\\views\\adminmessage\\sendbox.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5078EE96-3688-493F-9D12-1061B1F2188B}|CoreDemo\\CoreDemo.csproj|solutionrelative:coredemo\\areas\\admin\\views\\adminmessage\\sendbox.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5078EE96-3688-493F-9D12-1061B1F2188B}|CoreDemo\\CoreDemo.csproj|c:\\users\\mert\\source\\repos\\coredemo\\coredemo\\areas\\admin\\views\\adminmessage\\inbox.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5078EE96-3688-493F-9D12-1061B1F2188B}|CoreDemo\\CoreDemo.csproj|solutionrelative:coredemo\\areas\\admin\\views\\adminmessage\\inbox.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5078EE96-3688-493F-9D12-1061B1F2188B}|CoreDemo\\CoreDemo.csproj|c:\\users\\mert\\source\\repos\\coredemo\\coredemo\\areas\\admin\\views\\adminmessage\\composemessage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5078EE96-3688-493F-9D12-1061B1F2188B}|CoreDemo\\CoreDemo.csproj|solutionrelative:coredemo\\areas\\admin\\views\\adminmessage\\composemessage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5078EE96-3688-493F-9D12-1061B1F2188B}|CoreDemo\\CoreDemo.csproj|c:\\users\\mert\\source\\repos\\coredemo\\coredemo\\areas\\admin\\views\\admincomment\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5078EE96-3688-493F-9D12-1061B1F2188B}|CoreDemo\\CoreDemo.csproj|solutionrelative:coredemo\\areas\\admin\\views\\admincomment\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AboutManager.cs",
+              "DocumentMoniker": "C:\\Users\\Mert\\source\\repos\\CoreDemo\\BusinessLayer\\Concrete\\AboutManager.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Concrete\\AboutManager.cs",
+              "ToolTip": "C:\\Users\\Mert\\source\\repos\\CoreDemo\\BusinessLayer\\Concrete\\AboutManager.cs",
+              "RelativeToolTip": "BusinessLayer\\Concrete\\AboutManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T16:07:02.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Blog.cs",
+              "DocumentMoniker": "C:\\Users\\Mert\\source\\repos\\CoreDemo\\EntityLayer\\Concrete\\Blog.cs",
+              "RelativeDocumentMoniker": "EntityLayer\\Concrete\\Blog.cs",
+              "ToolTip": "C:\\Users\\Mert\\source\\repos\\CoreDemo\\EntityLayer\\Concrete\\Blog.cs",
+              "RelativeToolTip": "EntityLayer\\Concrete\\Blog.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T16:06:11.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BlogRayting.cs",
+              "DocumentMoniker": "C:\\Users\\Mert\\source\\repos\\CoreDemo\\EntityLayer\\Concrete\\BlogRayting.cs",
+              "RelativeDocumentMoniker": "EntityLayer\\Concrete\\BlogRayting.cs",
+              "ToolTip": "C:\\Users\\Mert\\source\\repos\\CoreDemo\\EntityLayer\\Concrete\\BlogRayting.cs",
+              "RelativeToolTip": "EntityLayer\\Concrete\\BlogRayting.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T16:06:10.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BlogController.cs",
+              "DocumentMoniker": "C:\\Users\\Mert\\source\\repos\\CoreDemo\\CoreDemo\\Controllers\\BlogController.cs",
+              "RelativeDocumentMoniker": "CoreDemo\\Controllers\\BlogController.cs",
+              "ToolTip": "C:\\Users\\Mert\\source\\repos\\CoreDemo\\CoreDemo\\Controllers\\BlogController.cs",
+              "RelativeToolTip": "CoreDemo\\Controllers\\BlogController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAjwDcAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T16:18:45.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "C:\\Users\\Mert\\source\\repos\\CoreDemo\\CoreDemo\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "CoreDemo\\Controllers\\ContactController.cs",
+              "ToolTip": "C:\\Users\\Mert\\source\\repos\\CoreDemo\\CoreDemo\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "CoreDemo\\Controllers\\ContactController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T16:13:22.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Context.cs",
+              "DocumentMoniker": "C:\\Users\\Mert\\source\\repos\\CoreDemo\\DataAccessLayer\\Concrete\\Context.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Concrete\\Context.cs",
+              "ToolTip": "C:\\Users\\Mert\\source\\repos\\CoreDemo\\DataAccessLayer\\Concrete\\Context.cs",
+              "RelativeToolTip": "DataAccessLayer\\Concrete\\Context.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T08:53:45.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BlogAdd.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mert\\source\\repos\\CoreDemo\\CoreDemo\\Views\\Blog\\BlogAdd.cshtml",
+              "RelativeDocumentMoniker": "CoreDemo\\Views\\Blog\\BlogAdd.cshtml",
+              "ToolTip": "C:\\Users\\Mert\\source\\repos\\CoreDemo\\CoreDemo\\Views\\Blog\\BlogAdd.cshtml",
+              "RelativeToolTip": "CoreDemo\\Views\\Blog\\BlogAdd.cshtml",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-08T12:50:58.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mert\\source\\repos\\CoreDemo\\CoreDemo\\Views\\Blog\\Index.cshtml",
+              "RelativeDocumentMoniker": "CoreDemo\\Views\\Blog\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Mert\\source\\repos\\CoreDemo\\CoreDemo\\Views\\Blog\\Index.cshtml",
+              "RelativeToolTip": "CoreDemo\\Views\\Blog\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-08T12:51:06.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EditBlog.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mert\\source\\repos\\CoreDemo\\CoreDemo\\Views\\Blog\\EditBlog.cshtml",
+              "RelativeDocumentMoniker": "CoreDemo\\Views\\Blog\\EditBlog.cshtml",
+              "ToolTip": "C:\\Users\\Mert\\source\\repos\\CoreDemo\\CoreDemo\\Views\\Blog\\EditBlog.cshtml",
+              "RelativeToolTip": "CoreDemo\\Views\\Blog\\EditBlog.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-08T12:51:03.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mert\\source\\repos\\CoreDemo\\CoreDemo\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "CoreDemo\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Mert\\source\\repos\\CoreDemo\\CoreDemo\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "CoreDemo\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAABcAAAByAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-07T14:35:03.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mert\\source\\repos\\CoreDemo\\CoreDemo\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "CoreDemo\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Mert\\source\\repos\\CoreDemo\\CoreDemo\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "CoreDemo\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-07T14:37:35.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Partial3.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mert\\source\\repos\\CoreDemo\\CoreDemo\\Views\\Shared\\Partial3.cshtml",
+              "RelativeDocumentMoniker": "CoreDemo\\Views\\Shared\\Partial3.cshtml",
+              "ToolTip": "C:\\Users\\Mert\\source\\repos\\CoreDemo\\CoreDemo\\Views\\Shared\\Partial3.cshtml",
+              "RelativeToolTip": "CoreDemo\\Views\\Shared\\Partial3.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-07T14:16:48.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AdminLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mert\\source\\repos\\CoreDemo\\CoreDemo\\Views\\Shared\\AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "CoreDemo\\Views\\Shared\\AdminLayout.cshtml",
+              "ToolTip": "C:\\Users\\Mert\\source\\repos\\CoreDemo\\CoreDemo\\Views\\Shared\\AdminLayout.cshtml",
+              "RelativeToolTip": "CoreDemo\\Views\\Shared\\AdminLayout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-07T14:15:38.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mert\\source\\repos\\CoreDemo\\CoreDemo\\Areas\\Admin\\Views\\Writer\\Index.cshtml",
+              "RelativeDocumentMoniker": "CoreDemo\\Areas\\Admin\\Views\\Writer\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Mert\\source\\repos\\CoreDemo\\CoreDemo\\Areas\\Admin\\Views\\Writer\\Index.cshtml",
+              "RelativeToolTip": "CoreDemo\\Areas\\Admin\\Views\\Writer\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-07T14:15:31.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mert\\source\\repos\\CoreDemo\\CoreDemo\\Areas\\Admin\\Views\\Widget\\Index.cshtml",
+              "RelativeDocumentMoniker": "CoreDemo\\Areas\\Admin\\Views\\Widget\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Mert\\source\\repos\\CoreDemo\\CoreDemo\\Areas\\Admin\\Views\\Widget\\Index.cshtml",
+              "RelativeToolTip": "CoreDemo\\Areas\\Admin\\Views\\Widget\\Index.cshtml",
+              "ViewState": "AQIAACwAAAAAAAAAAAAvwDoAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-07T14:15:11.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mert\\source\\repos\\CoreDemo\\CoreDemo\\Areas\\Admin\\Views\\Shared\\Components\\Statistic4\\Default.cshtml",
+              "RelativeDocumentMoniker": "CoreDemo\\Areas\\Admin\\Views\\Shared\\Components\\Statistic4\\Default.cshtml",
+              "ToolTip": "C:\\Users\\Mert\\source\\repos\\CoreDemo\\CoreDemo\\Areas\\Admin\\Views\\Shared\\Components\\Statistic4\\Default.cshtml",
+              "RelativeToolTip": "CoreDemo\\Areas\\Admin\\Views\\Shared\\Components\\Statistic4\\Default.cshtml",
+              "ViewState": "AQIAAFsAAAAAAAAAAAAvwDoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-07T14:14:52.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mert\\source\\repos\\CoreDemo\\CoreDemo\\Areas\\Admin\\Views\\Shared\\Components\\Statistic2\\Default.cshtml",
+              "RelativeDocumentMoniker": "CoreDemo\\Areas\\Admin\\Views\\Shared\\Components\\Statistic2\\Default.cshtml",
+              "ToolTip": "C:\\Users\\Mert\\source\\repos\\CoreDemo\\CoreDemo\\Areas\\Admin\\Views\\Shared\\Components\\Statistic2\\Default.cshtml",
+              "RelativeToolTip": "CoreDemo\\Areas\\Admin\\Views\\Shared\\Components\\Statistic2\\Default.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-07T14:14:44.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mert\\source\\repos\\CoreDemo\\CoreDemo\\Areas\\Admin\\Views\\Chart\\Index.cshtml",
+              "RelativeDocumentMoniker": "CoreDemo\\Areas\\Admin\\Views\\Chart\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Mert\\source\\repos\\CoreDemo\\CoreDemo\\Areas\\Admin\\Views\\Chart\\Index.cshtml",
+              "RelativeToolTip": "CoreDemo\\Areas\\Admin\\Views\\Chart\\Index.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-07T14:14:28.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mert\\source\\repos\\CoreDemo\\CoreDemo\\Areas\\Admin\\Views\\AdminRole\\Index.cshtml",
+              "RelativeDocumentMoniker": "CoreDemo\\Areas\\Admin\\Views\\AdminRole\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Mert\\source\\repos\\CoreDemo\\CoreDemo\\Areas\\Admin\\Views\\AdminRole\\Index.cshtml",
+              "RelativeToolTip": "CoreDemo\\Areas\\Admin\\Views\\AdminRole\\Index.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-07T14:14:18.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AddRole.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mert\\source\\repos\\CoreDemo\\CoreDemo\\Areas\\Admin\\Views\\AdminRole\\AddRole.cshtml",
+              "RelativeDocumentMoniker": "CoreDemo\\Areas\\Admin\\Views\\AdminRole\\AddRole.cshtml",
+              "ToolTip": "C:\\Users\\Mert\\source\\repos\\CoreDemo\\CoreDemo\\Areas\\Admin\\Views\\AdminRole\\AddRole.cshtml",
+              "RelativeToolTip": "CoreDemo\\Areas\\Admin\\Views\\AdminRole\\AddRole.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-07T14:14:16.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SendBox.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mert\\source\\repos\\CoreDemo\\CoreDemo\\Areas\\Admin\\Views\\AdminMessage\\SendBox.cshtml",
+              "RelativeDocumentMoniker": "CoreDemo\\Areas\\Admin\\Views\\AdminMessage\\SendBox.cshtml",
+              "ToolTip": "C:\\Users\\Mert\\source\\repos\\CoreDemo\\CoreDemo\\Areas\\Admin\\Views\\AdminMessage\\SendBox.cshtml",
+              "RelativeToolTip": "CoreDemo\\Areas\\Admin\\Views\\AdminMessage\\SendBox.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-07T14:14:15.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "InBox.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mert\\source\\repos\\CoreDemo\\CoreDemo\\Areas\\Admin\\Views\\AdminMessage\\InBox.cshtml",
+              "RelativeDocumentMoniker": "CoreDemo\\Areas\\Admin\\Views\\AdminMessage\\InBox.cshtml",
+              "ToolTip": "C:\\Users\\Mert\\source\\repos\\CoreDemo\\CoreDemo\\Areas\\Admin\\Views\\AdminMessage\\InBox.cshtml",
+              "RelativeToolTip": "CoreDemo\\Areas\\Admin\\Views\\AdminMessage\\InBox.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-07T14:14:14.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ComposeMessage.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mert\\source\\repos\\CoreDemo\\CoreDemo\\Areas\\Admin\\Views\\AdminMessage\\ComposeMessage.cshtml",
+              "RelativeDocumentMoniker": "CoreDemo\\Areas\\Admin\\Views\\AdminMessage\\ComposeMessage.cshtml",
+              "ToolTip": "C:\\Users\\Mert\\source\\repos\\CoreDemo\\CoreDemo\\Areas\\Admin\\Views\\AdminMessage\\ComposeMessage.cshtml",
+              "RelativeToolTip": "CoreDemo\\Areas\\Admin\\Views\\AdminMessage\\ComposeMessage.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-07T14:14:14.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mert\\source\\repos\\CoreDemo\\CoreDemo\\Areas\\Admin\\Views\\Shared\\Components\\Statistic1\\Default.cshtml",
+              "RelativeDocumentMoniker": "CoreDemo\\Areas\\Admin\\Views\\Shared\\Components\\Statistic1\\Default.cshtml",
+              "ToolTip": "C:\\Users\\Mert\\source\\repos\\CoreDemo\\CoreDemo\\Areas\\Admin\\Views\\Shared\\Components\\Statistic1\\Default.cshtml",
+              "RelativeToolTip": "CoreDemo\\Areas\\Admin\\Views\\Shared\\Components\\Statistic1\\Default.cshtml",
+              "ViewState": "AQIAABYAAAAAAAAAAAAvwCQAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-07T14:13:23.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mert\\source\\repos\\CoreDemo\\CoreDemo\\Areas\\Admin\\Views\\AdminComment\\Index.cshtml",
+              "RelativeDocumentMoniker": "CoreDemo\\Areas\\Admin\\Views\\AdminComment\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Mert\\source\\repos\\CoreDemo\\CoreDemo\\Areas\\Admin\\Views\\AdminComment\\Index.cshtml",
+              "RelativeToolTip": "CoreDemo\\Areas\\Admin\\Views\\AdminComment\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-07T14:14:01.566Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

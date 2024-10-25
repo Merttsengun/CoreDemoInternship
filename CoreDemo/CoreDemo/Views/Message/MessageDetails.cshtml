@@ -1,0 +1,32 @@
+﻿@model EntityLayer.Concrete.Message2
+
+@{
+    ViewData["Title"] = "MessageDetails";
+    Layout = "~/Views/Shared/WriterLayout.cshtml";
+}
+
+<h1>Mesaj Düzenleme Sayfası</h1>
+<br />
+<style>
+    .form-control[readonly] {
+        background-color: #ffffff; /* Beyaz arka plan rengi */
+        color: #000000; /* Siyah metin rengi (isteğe bağlı) */
+        border: 1px solid #ced4da; /* Kenar rengi (isteğe bağlı) */
+    }
+</style>
+
+    @Html.Label("Mesaj ID")
+@Html.TextBoxFor(x => x.MessageID, new { @class = "form-control", @readonly = "readonly" })
+    <br />
+    @Html.Label("Mesaj Başlığı")
+@Html.TextBoxFor(x => x.Subject, new { @class = "form-control", @readonly = "readonly" })
+    <br />
+    @Html.Label("Mesaj İçeriği")
+    @Html.TextAreaFor(x => x.MessageDetails,20,3, new { @class = "form-control", @readonly = "readonly" })
+    <br />
+    
+
+    <a href = "/Message/Inbox/" class="btn btn-success">Mesajlara Dön</a>
+
+
+
